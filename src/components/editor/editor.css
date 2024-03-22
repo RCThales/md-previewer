@@ -1,0 +1,25 @@
+#editor {
+  padding: 10px;
+  max-width: 90vw;
+  padding-top: 40px;
+  border-radius: 10px;
+  resize: none;
+}
+
+#editor_label {
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+  background-color: rgb(167, 144, 201);
+  color: rgb(5, 14, 41);
+  border-radius: 10px 10px 0px 0px;
+  font-size: 1.5rem;
+}
+.editor_wrapper {
+  display: flex;
+  max-height: 90vh;
+  max-width: 85vw;
+}
