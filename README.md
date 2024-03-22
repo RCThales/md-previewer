@@ -1,7 +1,7 @@
 # MARKDOWN PREVIEWER
 
 <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/189/189665.png" alt="Light Bulb Icon" width="80" height="80">
+    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/72/external-markdown-a-lightweight-markup-language-with-plain-text-formatting-syntax-logo-green-tal-revivo.png" alt="Markdown Icon" width="80" height="80">
     <h2>MARKDOWN PREVIEWER</h2>
     <p>The easiest project to explain sinced this README is made on a markdown previwer by GITHUB! 😄</p>
 </div>
@@ -55,6 +55,10 @@ This project is part of the FreeCodeCamp Front End Development Libraries Certifi
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## Icon provider
+
+[Markdown icon](https://icons8.com/icon/r52lb0Ty9e5z/markdown)
+
 ---
 
-Enjoy using the MARKDOWN PREVIWER and stay inspired! ✨
+Enjoy using the MARKDOWN PREVIEWER and stay inspired! ✨
